@@ -18,6 +18,8 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 - [typer.js](http://steven.codes/typerjs/)
 - [Google Charts](https://developers.google.com/chart/)
 
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
+
 
 #Important Reading
 
@@ -26,6 +28,8 @@ https://en.wikipedia.org/wiki/Technology_evangelist
 https://www.fastcompany.com/3040723/12-signs-your-company-has-an-enviable-workplace-culture
 
 http://www.tiobe.com/tiobe-index/
+
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
 ###Commercial
@@ -52,6 +56,8 @@ Microsoft Visual Studio - https://www.visualstudio.com
 
 Eclipse - https://eclipse.org/
 
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
+
 
 #Helpful links
 
@@ -60,6 +66,8 @@ Creating and highlighting code blocks - https://help.github.com/articles/creatin
 Linguist langage extensions - https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 
 How to check a file checksum - http://stackoverflow.com/questions/478722/what-is-the-best-way-to-calculate-a-checksum-for-a-file-that-is-on-my-machine
+
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
 #Free online interactive easy quick courses
