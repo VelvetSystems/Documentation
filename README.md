@@ -18,6 +18,47 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 - [Google Charts](https://developers.google.com/chart/)
 
 
+#Important Reading
+
+https://en.wikipedia.org/wiki/Technology_evangelist
+
+https://www.fastcompany.com/3040723/12-signs-your-company-has-an-enviable-workplace-culture
+
+http://www.tiobe.com/tiobe-index/
+
+
+###Commercial
+
+oXygen XML Editor - https://www.oxygenxml.com/
+
+XMLSpy - alternative to oXygen XML - http://www.altova.com/xmlspy.html
+
+Cross platform Linux, Mac, Windows Editor - Active State Komode IDE - http://komodoide.com/
+
+Cross platform Linux, Mac, Windows - JetBrains RubyMine - The Most Intelligent Ruby and Rails IDE - https://www.jetbrains.com/ruby/
+
+###Open Source
+
+Cross platform Linux, Mac, Windows Editor - Active State Komode Edit - http://komodoide.com/komodo-edit/
+
+Cross platform Linux, Mac, Windows Editor - Atom by GitHub - https://atom.io
+
+Cross platform Linux, Mac, Windows Editor - https://www.sublimetext.com
+
+Microsoft Visual Studio - https://www.visualstudio.com
+
+Eclipse - https://eclipse.org/
+
+
+#Helpful links
+
+Creating and highlighting code blocks - https://help.github.com/articles/creating-and-highlighting-code-blocks/
+
+Linguist langage extensions - https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
+
+How to check a file checksum - http://stackoverflow.com/questions/478722/what-is-the-best-way-to-calculate-a-checksum-for-a-file-that-is-on-my-machine
+
+
 #Free online interactive easy quick courses
 
 ###Learn Git
