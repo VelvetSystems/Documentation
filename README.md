@@ -4,6 +4,7 @@ First up, if you would like to add to this documentation, GitHub uses [Markdown]
 
 The best practice way to add to this documenatation is to [fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/creating-a-pull-request/).
 
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 #Unlimited static websites hosted on GitHub with custom domain names
 
