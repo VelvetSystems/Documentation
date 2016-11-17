@@ -21,6 +21,27 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
+#Oracle VM VirtualBox
+
+This section is dedicated to those that run Mac OS or Windows that need to run Ubuntu with [Oracle VM VirtualBox](https://www.virtualbox.org/).  Here is in depth [documentation](https://www.virtualbox.org/manual/ch01.html) on how to get VirtualBox running.
+
+###Host machine
+
+####Minimum host requirements
+
+16GB RAM, [Octa-core](https://en.wikipedia.org/wiki/Microprocessor) desktop class CPU, [64 Bit](https://en.wikipedia.org/wiki/64-bit_computing) OS
+
+###Guest VM - Ubuntu
+
+####Minimun VM requirements
+
+8GB RAM, Quad Core CPU.
+
+More to come soon.
+
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
+
+
 #Important Reading
 
 https://en.wikipedia.org/wiki/Technology_evangelist
@@ -31,6 +52,8 @@ http://www.tiobe.com/tiobe-index/
 
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
+
+#Programming Editors
 
 ###Commercial
 
