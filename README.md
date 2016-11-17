@@ -118,6 +118,8 @@ https://www.codecademy.com/learn/learn-sql
 
 https://www.codecademy.com/learn/learn-the-command-line
 
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
+
 
 #Essential Programmer Training
 
