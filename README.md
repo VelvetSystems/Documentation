@@ -16,3 +16,64 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 - [CSS 3](https://developer.mozilla.org/en/docs/Web/CSS/CSS3)
 - [typer.js](http://steven.codes/typerjs/)
 - [Google Charts](https://developers.google.com/chart/)
+
+
+#Free online interactive easy quick courses
+
+###Learn Git
+
+https://try.github.io/levels/1/challenges/1
+
+https://www.codecademy.com/learn/learn-git
+
+https://www.udacity.com/course/how-to-use-git-and-github--ud775
+
+###Learn Ruby
+
+http://tryruby.org/levels/1/challenges/0
+
+https://www.codecademy.com/learn/ruby
+
+https://www.codecademy.com/learn/learn-rails
+
+###Learn Python
+
+https://www.codecademy.com/learn/python
+
+https://www.codeschool.com/courses/try-python
+
+###Learn DevTools
+
+http://discover-devtools.codeschool.com/
+
+###Learn Web
+
+https://www.codecademy.com/learn/learn-html-css
+
+https://www.codecademy.com/learn/javascript
+
+https://www.codecademy.com/learn/jquery
+
+https://www.codecademy.com/learn/make-a-website
+
+https://www.codecademy.com/en/skills/make-an-interactive-website
+
+###Learn SQL
+
+https://www.codecademy.com/learn/learn-sql
+
+###Learn Miscellaneous
+
+https://www.codecademy.com/learn/learn-the-command-line
+
+
+#Essential Programmer Training
+
+###Codewars
+
+####Achieve mastery through challenge.  Improve your skills by training with others on real code challenges
+
+http://www.codewars.com/
+
+[&#8593;](#information-for-velvet-systems-employees)
+
