@@ -43,7 +43,9 @@ Cross platform Linux, Mac, Windows Editor - Active State Komode Edit - http://ko
 
 Cross platform Linux, Mac, Windows Editor - Atom by GitHub - https://atom.io
 
-Cross platform Linux, Mac, Windows Editor - https://www.sublimetext.com
+Cross platform Linux, Mac, Windows Editor - Sublime Text - https://www.sublimetext.com
+
+Cross platform Linux, Mac, Windows Editor - Netbeans - https://netbeans.org/
 
 Microsoft Visual Studio - https://www.visualstudio.com
 
