@@ -20,6 +20,17 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
+#Task to do after you first join GitHub
+
+##Follow all these people
+
+- [The Real Beast](https://github.com/jbampton)
+- [Preston Hunter](https://github.com/prestonhunter)
+- [Linus Torvalds](https://github.com/torvalds)
+- [Jose Valim](https://github.com/josevalim)
+- [Nobuyoshi Nakada](https://github.com/nobu)
+- [Yukihiro "Matz" Matsumoto](https://github.com/matz)
+
 
 #Oracle VM VirtualBox
 
