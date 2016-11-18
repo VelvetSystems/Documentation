@@ -564,6 +564,16 @@ http://www.tiobe.com/tiobe-index/
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
+#XSLT XPath resources
+
+- [XPath Axes](http://www.w3schools.com/xml/xpath_axes.asp)
+- [XSLT 2.0 and XPath 2.0 Programmer's Reference, 4th Edition](http://www.wrox.com/WileyCDA/WroxTitle/XSLT-2-0-and-XPath-2-0-Programmer-s-Reference-4th-Edition.productCd-0470192747.html) - John owns this large essential book from [Michael Kay](https://en.wikipedia.org/wiki/Michael_Howard_Kay)
+- [XPath examples](https://msdn.microsoft.com/en-us/library/ms256086(v=vs.110).aspx)
+- [XPath Wikipedia](https://en.wikipedia.org/wiki/XPath)
+
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
+
+
 #Programming Editors
 
 ###Commercial
