@@ -31,7 +31,7 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 - [Nobuyoshi Nakada](https://github.com/nobu)
 - [Yukihiro "Matz" Matsumoto](https://github.com/matz)
 
-##Star and Watch these projects
+##Star and Watch some projects
 
 - [The Real Beast](https://github.com/jbampton/jbampton.github.io)
 - [Linux](https://github.com/torvalds/linux)
@@ -40,6 +40,9 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 - [Laravel](https://github.com/laravel/laravel)
 - [Rails](https://github.com/rails/rails)
 - [Foundation](https://github.com/zurb/foundation-sites)
+- [Jekyll](https://github.com/jekyll/jekyll)
+- [kramdown](https://github.com/gettalong/kramdown)
+- [Sass](https://github.com/sass/sass)
 
 
 #Oracle VM VirtualBox
