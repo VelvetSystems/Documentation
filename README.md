@@ -72,6 +72,8 @@ More to come soon.
 
 [Homebrew](http://brew.sh) is an amazing package management system for OS X that installs the stuff you need that Apple didn't. [Homebrew Formula](http://brewformulas.org) are written in Ruby. You install Homebrew via the command line as shown in my short [Homebrew install video](https://www.youtube.com/watch?v=Ird_MGf3m0Q). If you install Homebrew you should try to run brew update daily. I made another [video on Homebrew](https://www.youtube.com/watch?v=HuHtuxcIbhs) that shows the typical brew update command.
 
+Hey come and check out the [Ruby in 4 seconds](https://youtu.be/ayx4fASYkZU) video or [Ruby in 29 seconds](https://youtu.be/2ei7S0FU65E).
+
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
