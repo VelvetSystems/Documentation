@@ -31,6 +31,16 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 - [Nobuyoshi Nakada](https://github.com/nobu)
 - [Yukihiro "Matz" Matsumoto](https://github.com/matz)
 
+##Star and Watch these projects
+
+- [The Real Beast](https://github.com/jbampton/jbampton.github.io)
+- [Linux](https://github.com/torvalds/linux)
+- [Ruby](https://github.com/ruby/ruby)
+- [Phalcon Framework](https://github.com/phalcon/cphalcon)
+- [Laravel](https://github.com/laravel/laravel)
+- [Rails](https://github.com/rails/rails)
+- [Foundation](https://github.com/zurb/foundation-sites)
+
 
 #Oracle VM VirtualBox
 
