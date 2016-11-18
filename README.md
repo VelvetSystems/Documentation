@@ -20,7 +20,7 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
-#Task to do after you first join GitHub
+#Tasks to do after you first join GitHub
 
 ##Follow all these people
 
