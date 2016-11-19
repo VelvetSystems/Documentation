@@ -577,6 +577,25 @@ PS C:\>
 ```
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
+##Jekyll
+
+```
+PS C:\work\github\jbampton.github.io> bundle exec jekyll serve
+Configuration file: C:/work/github/jbampton.github.io/_config.yml
+            Source: C:/work/github/jbampton.github.io
+       Destination: C:/work/github/jbampton.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+                    done in 1.18 seconds.
+ Auto-regeneration: enabled for 'C:/work/github/jbampton.github.io'
+Configuration file: C:/work/github/jbampton.github.io/_config.yml
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2016-11-20 01:31:42 ...done in 15.700119 seconds.
+      Regenerating: 1 file(s) changed at 2016-11-20 01:32:08 ...done in 0.56543 seconds.
+```
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
+
 
 #Important Reading
 
