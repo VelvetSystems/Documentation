@@ -4,6 +4,20 @@ First up, if you would like to add to this documentation, GitHub uses [Markdown]
 
 The best practice way to add to this documenatation is to [fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/creating-a-pull-request/).
 
+- [Unlimited static websites hosted on GitHub with custom domain names](#unlimited-static-websites-hosted-on-github-with-custom-domain-names)
+- [Tasks to do after you first join GitHub](#tasks-to-do-after-you-first-join-github)
+- [Oracle VM VirtualBox](#oracle-vm-virtualbox)
+- [OS X](#os-x)
+- [Windows](#windows)
+- [Important Reading](#important-reading)
+- [XSLT XPath resources](#xslt-xpath-resources)
+- [Programming Editors](#programming-editors)
+- [Helpful links](#helpful-links)
+- [Free online interactive easy quick courses](#free-online-interactive-easy-quick-courses)
+- [Essential Programmer Training](#essential-programmer-training)
+
+
+
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 #Unlimited static websites hosted on GitHub with custom domain names
@@ -578,7 +592,7 @@ http://www.tiobe.com/tiobe-index/
 #XSLT XPath resources
 
 - [XPath Axes](http://www.w3schools.com/xml/xpath_axes.asp)
-- [XSLT 2.0 and XPath 2.0 Programmer's Reference, 4th Edition](http://www.wrox.com/WileyCDA/WroxTitle/XSLT-2-0-and-XPath-2-0-Programmer-s-Reference-4th-Edition.productCd-0470192747.html) - John owns this large essential book from [Michael Kay](https://en.wikipedia.org/wiki/Michael_Howard_Kay)
+- [XSLT 2.0 and XPath 2.0 Programmer's Reference, 4th Edition](http://www.wrox.com/WileyCDA/WroxTitle/XSLT-2-0-and-XPath-2-0-Programmer-s-Reference-4th-Edition.productCd-0470192747.html) - The Real Beast owns this large essential book from [Michael Kay](https://en.wikipedia.org/wiki/Michael_Howard_Kay)
 - [XPath examples](https://msdn.microsoft.com/en-us/library/ms256086(v=vs.110).aspx)
 - [XPath Wikipedia](https://en.wikipedia.org/wiki/XPath)
 
