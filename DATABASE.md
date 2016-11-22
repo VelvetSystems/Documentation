@@ -1,5 +1,6 @@
 #Database
 
+- [Avoid NULL (usually)](#avoid-null-usually)
 - [camelCase or underscore_case?](#camelcase-or-underscore_case)
 - [When to Index?](#when-to-index)
 - [Why "ID"?](#why-id)
@@ -7,6 +8,62 @@
 - [Normalization Example: States](#normalization-example-states)
 - [Database Design: Three Areas of Optimization](#database-design-three-areas-of-optimization)
 - [Enum: Just Say No](#enum-just-say-no)
+
+
+23 November 2016
+
+#Avoid NULL (usually)
+
+Columns in SQL database tables can have values. Their value can also be set to NULL. Whether or not to allow an individual column to be set to NULL is an important decision in database design.
+
+The importance of the NULL/NOT NULL decision is often overlooked. I often see inexperienced database designers use this incorrectly.
+
+Simply put: When optimizing a database for:
+<br />- data integrity
+<br />- speed
+<br />- maintainability
+
+...it is best to set all or most columns to NOT NULL.
+
+This may seem counter-intuitive, depending on when, where and how a person first learned database design.
+
+NULL means that you don't know the value, right?
+
+So let's take this table:
+<br />Table: USERS
+<br />ID
+<br />first_name
+<br />middle_name
+<br />last_name
+
+Maybe we want to collect names of users. We block rows from being created without a first and last name. But we don't want to require users to enter a middle name or middle initial. In the front-end interface, we leave that field optional.
+
+So if a user doesn't provide a middle name, should we store that as NULL, because we don't know the value?
+
+No.
+
+Using NULL is indeed a "semantically pure" decision. But we are not optimizing our database for "semantic purity." We are (instead) optimizing our database for data integrity, speed, and maintainability.
+
+Allowing the middle_name column to be NULL introduces an additional state or property to the column. This actually increases the memory requirements of the column. It may be a very slight amount, but with a large table, it is faster to deal with columns that do NOT allow null.
+
+And queries are more complex if you allow NULL. Queries may need to use functions to check for null status, instead of simply querying columns directly.
+
+Where clauses and joins are particularly trick. Many queries which use a column which allows null will fail if not handled properly. One might run a query that is supposed to return 100 rows of data. But it only returns 80 rows. Why? A programmer or user could spend a long time being baffled by the results until they realize that the query did not properly account for the NULL-able columns which were part of where clauses.
+
+What are you going to do with that null value middle name? You're going to display it as blank on the front-end, or in the report.
+
+How is that result any different than simply storing the middle name as a blank (empty string)? It's not. The result is exactly the same.
+
+So by setting the column to NOT NULL, you reduce the complexity of the database table by eliminating one possible state and also eliminating one possible value which has no meaningful difference from another possible value.
+
+If "NULL" and "blank" mean the same thing, then they're redundant. And it is better to use only one of them.
+
+There ARE legitimate reasons to set a column to "allow NULL." I do use NULL-able columns in my database designs. But I use them cautiously and sparingly. I try to avoid using them whenever possible, but if there is a need for them, I use them.
+
+When NULL-able columns should be used can be discussed another time.
+
+
+[&#8595;](#watch-this-space) [&#8593;](#database)
 
 
 22 November 2016
