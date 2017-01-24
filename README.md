@@ -23,7 +23,6 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 - [Essential Programmer Training](#essential-programmer-training)
 
 
-
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 #Unlimited static websites hosted on GitHub with custom domain names
@@ -63,6 +62,8 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 - [Jekyll](https://github.com/jekyll/jekyll)
 - [kramdown](https://github.com/gettalong/kramdown)
 - [Sass](https://github.com/sass/sass)
+
+[&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
 #Oracle VM VirtualBox
