@@ -1,4 +1,4 @@
-#Information for Velvet Systems Employees
+# Information for Velvet Systems Employees
 
 First up, if you would like to add to this documentation, GitHub uses [Markdown](https://daringfireball.net/projects/markdown/) and here's a great 3 minute [GitHub guide](https://guides.github.com/features/mastering-markdown/) on mastering markdown. The easiest way to start using GitHub is to use [GitHub Desktop](https://desktop.github.com/).
 
@@ -25,7 +25,7 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
-#Unlimited static websites hosted on GitHub with custom domain names
+# Unlimited static websites hosted on GitHub with custom domain names
 
 - [GitHub Pages](https://pages.github.com/)
 - [Jekyll](https://jekyllrb.com/)
@@ -39,9 +39,9 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
-#Tasks to do after you first join GitHub
+# Tasks to do after you first join GitHub
 
-##Follow all these people
+## Follow all these people
 
 - [The Real Beast](https://github.com/jbampton)
 - [Preston Hunter](https://github.com/prestonhunter)
@@ -50,7 +50,7 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 - [Nobuyoshi Nakada](https://github.com/nobu)
 - [Yukihiro "Matz" Matsumoto](https://github.com/matz)
 
-##Star and Watch some projects
+## Star and Watch some projects
 
 - [The Real Beast](https://github.com/jbampton/jbampton.github.io)
 - [Linux](https://github.com/torvalds/linux)
@@ -66,19 +66,19 @@ The best practice way to add to this documenatation is to [fork](https://help.gi
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-#Oracle VM VirtualBox
+# Oracle VM VirtualBox
 
 This section is dedicated to those that run Mac OS or Windows that need to run Ubuntu with [Oracle VM VirtualBox](https://www.virtualbox.org/).  Here is in depth [documentation](https://www.virtualbox.org/manual/ch01.html) on how to get VirtualBox running.
 
-###Host machine
+### Host machine
 
-####Minimum host requirements
+#### Minimum host requirements
 
 16GB RAM, [Octa-core](https://en.wikipedia.org/wiki/Microprocessor) desktop class CPU, [64 Bit](https://en.wikipedia.org/wiki/64-bit_computing) OS
 
-###Guest VM - Ubuntu
+### Guest VM - Ubuntu
 
-####Minimun VM requirements
+#### Minimun VM requirements
 
 8GB RAM, Quad Core CPU.
 
@@ -87,9 +87,9 @@ More to come soon.
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-#OS X
+# OS X
 
-##Homebrew
+## Homebrew
 
 [Homebrew](http://brew.sh) is an amazing package management system for OS X that installs the stuff you need that Apple didn't. [Homebrew Formula](http://brewformulas.org) are written in Ruby. You install Homebrew via the command line as shown in my short [Homebrew install video](https://www.youtube.com/watch?v=Ird_MGf3m0Q). If you install Homebrew you should try to run brew update daily. I made another [video on Homebrew](https://www.youtube.com/watch?v=HuHtuxcIbhs) that shows the typical brew update command.
 
@@ -98,9 +98,9 @@ Hey come and check out the [Ruby in 4 seconds](https://youtu.be/ayx4fASYkZU) vid
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-#Windows
+# Windows
 
-##Ruby
+## Ruby
 
 Using [Ruby](https://www.ruby-lang.org/en/) (a programmer's best friend) we can harness the power of [RubyGems](https://rubygems.org/).  
 
@@ -446,7 +446,7 @@ http://127.0.0.1:8808/ -> /favicon.ico
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-##JRuby
+## JRuby
 
 [JRuby](http://jruby.org/) requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) to be installed and the current version for Windows is Java 111. You can use the following command to see if Java is installed on your machine:
 
@@ -584,7 +584,7 @@ PS C:\>
 ```
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
-##Jekyll
+## Jekyll
 
 ```
 PS C:\work\github\jbampton.github.io> bundle exec jekyll serve
@@ -604,7 +604,7 @@ Configuration file: C:/work/github/jbampton.github.io/_config.yml
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-#Important Reading
+# Important Reading
 
 https://en.wikipedia.org/wiki/Technology_evangelist
 
@@ -615,7 +615,7 @@ http://www.tiobe.com/tiobe-index/
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-#XSLT XPath resources
+# XSLT XPath resources
 
 - [XPath Axes](http://www.w3schools.com/xml/xpath_axes.asp)
 - [XSLT 2.0 and XPath 2.0 Programmer's Reference, 4th Edition](http://www.wrox.com/WileyCDA/WroxTitle/XSLT-2-0-and-XPath-2-0-Programmer-s-Reference-4th-Edition.productCd-0470192747.html) - The Real Beast owns this large essential book from [Michael Kay](https://en.wikipedia.org/wiki/Michael_Howard_Kay)
@@ -625,9 +625,9 @@ http://www.tiobe.com/tiobe-index/
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-#Programming Editors
+# Programming Editors
 
-###Commercial
+### Commercial
 
 oXygen XML Editor - https://www.oxygenxml.com/
 
@@ -637,7 +637,7 @@ Cross platform Linux, Mac, Windows Editor - Active State Komode IDE - http://kom
 
 Cross platform Linux, Mac, Windows - JetBrains RubyMine - The Most Intelligent Ruby and Rails IDE - https://www.jetbrains.com/ruby/
 
-###Open Source
+### Open Source
 
 Cross platform Linux, Mac, Windows Editor - Active State Komode Edit - http://komodoide.com/komodo-edit/
 
@@ -654,7 +654,7 @@ Eclipse - https://eclipse.org/
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-#Helpful links
+# Helpful links
 
 Creating and highlighting code blocks - https://help.github.com/articles/creating-and-highlighting-code-blocks/
 
@@ -665,9 +665,9 @@ How to check a file checksum - http://stackoverflow.com/questions/478722/what-is
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-#Free online interactive easy quick courses
+# Free online interactive easy quick courses
 
-###Learn Git
+### Learn Git
 
 https://try.github.io/levels/1/challenges/1
 
@@ -675,7 +675,7 @@ https://www.codecademy.com/learn/learn-git
 
 https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
-###Learn Ruby
+### Learn Ruby
 
 http://tryruby.org/levels/1/challenges/0
 
@@ -683,17 +683,17 @@ https://www.codecademy.com/learn/ruby
 
 https://www.codecademy.com/learn/learn-rails
 
-###Learn Python
+### Learn Python
 
 https://www.codecademy.com/learn/python
 
 https://www.codeschool.com/courses/try-python
 
-###Learn DevTools
+### Learn DevTools
 
 http://discover-devtools.codeschool.com/
 
-###Learn Web
+### Learn Web
 
 https://www.codecademy.com/learn/learn-html-css
 
@@ -705,22 +705,22 @@ https://www.codecademy.com/learn/make-a-website
 
 https://www.codecademy.com/en/skills/make-an-interactive-website
 
-###Learn SQL
+### Learn SQL
 
 https://www.codecademy.com/learn/learn-sql
 
-###Learn Miscellaneous
+### Learn Miscellaneous
 
 https://www.codecademy.com/learn/learn-the-command-line
 
 [&#8595;](#codewars) [&#8593;](#information-for-velvet-systems-employees)
 
 
-#Essential Programmer Training
+# Essential Programmer Training
 
-###Codewars
+### Codewars
 
-####Achieve mastery through challenge.  Improve your skills by training with others on real code challenges
+#### Achieve mastery through challenge.  Improve your skills by training with others on real code challenges
 
 http://www.codewars.com/
 
